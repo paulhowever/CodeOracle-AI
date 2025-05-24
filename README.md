@@ -16,7 +16,6 @@
 Перед запуском убедитесь, что у вас установлены зависимости:
 
 pip install pandas chromadb sentence-transformers google-generativeai
-+ для полноценной работы подгрузите (https://www.kaggle.com/datasets/stackoverflow/stacksample)
 2. Запуск
 Проект поддерживает 2 режима работы:
 
